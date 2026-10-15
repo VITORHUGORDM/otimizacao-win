@@ -1,8 +1,6 @@
 # Pacote de Otimização do Windows & Drivers de Vídeo
 
-Este pacote foi totalmente atualizado e limpo, removendo qualquer vínculo, branding ou download de servidores de terceiros (FR33THY). Todos os componentes agora são baixados diretamente de fontes oficiais e seguras (Microsoft, NVIDIA, AMD, Intel, Wagnardsoft, 7-Zip, Brave e Orbmu2k).
-
-O navegador Helium foi completamente substituído pelo **Brave Browser**, já configurado com políticas de alto desempenho (desativação de processos em segundo plano, telemetria e tarefas agendadas que causam micro-travamentos).
+Este pacote foi totalmente atualizado e limpo, removendo qualquer vínculo, branding ou download de servidores de terceiros . Todos os componentes agora são baixados diretamente de fontes oficiais e seguras (Microsoft, NVIDIA, AMD, Intel, Wagnardsoft, 7-Zip, Brave e Orbmu2k).
 
 ---
 
